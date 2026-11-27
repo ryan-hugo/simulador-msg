@@ -1,0 +1,7 @@
+# Configuração do Streamlit para o simulador
+[client]
+# "minimal" remove o botão Deploy e as opções de desenvolvedor do menu superior
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
